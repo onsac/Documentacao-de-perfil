@@ -55,13 +55,12 @@ Verifique todas as informações da nota:
 A perta no botão "ENVIAR" e a nota irá para a equipe do financeiro autorizar o lançamento.
 
 ## Perfil Engenheiros
+O perfil de **Engenheiros** possui a permissão específica para confirmar o recebimento de serviço, garantindo o registro adequado e o acompanhamento do processo de entrada de insumos no sistema
 
 Tela de Confirmação de Entrega de notas de Serviços
 <p align="center">
      <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Engenheiro/tela-confirmacao-servico.png" >
 </p>
-
-O perfil de **Engenheiros** possui a permissão específica para confirmar o recebimento de serviço, garantindo o registro adequado e o acompanhamento do processo de entrada de insumos no sistema
 
 Selecione a Obra:
 <p align="center">
@@ -82,3 +81,14 @@ Verifique todas as informações da nota:
 <p align="center">
      <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/tela-selecione-nota-fiscal.png" >
 </p>
+
+## Perfil Fiscal
+
+O perfil de **Fiscal** é a junção do perfil de Almoxarife com o de Engenheiro, onde o Fiscal pode confirmar o recebimento das notas de materias e de serviços. 
+
+As telas a serem usadas são as mesmas, porém no menu de confirmação terá as opções, como na foto abaixo:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Fiscal/tela-confirmacao-servico.png" >
+</p>
+
+
