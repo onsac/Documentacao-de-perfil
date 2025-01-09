@@ -125,14 +125,14 @@ Selecionando no menu de autorização e apertando no botão "Materiais" irá apa
 Selecionando no menu de autorização e apertando no botão "Serviços" irá aparecer essa tela:
 
 <p align="center">
-     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/tela-autoriza-material.png" >
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/tela-autoriza-servico.png" >
 </p>
 Na sequencia, você vai selecionar a Obra que deseja, avançar, selecionar o fornecedor e depois identificar a nota que será lançada. 
 
 Após o lançamento, você receberá um email com a confirmação do lançamento da nota no seu Erp. 
 
 <p align="center">
-     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/tela-autoriza-servico.png" >
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/confirmacao-lancamento.png" >
 </p>
 
 
