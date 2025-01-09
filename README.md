@@ -88,7 +88,7 @@ O perfil de **Fiscal** é a junção do perfil de Almoxarife com o de Engenheiro
 
 As telas a serem usadas são as mesmas, porém no menu de confirmação terá as opções, como na foto abaixo:
 <p align="center">
-     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Fiscal/tela-confirmacao-servico.png" >
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Fiscal/selecione-material-ou-servico.png" >
 </p>
 
 
