@@ -135,7 +135,16 @@ Após o lançamento, você receberá um email com a confirmação do lançamento
      <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/confirmacao-lancamento.png" >
 </p>
 
+## Confirmação de Entrega 
 
+No perfil de **Finaceiro** a parte de confirmação de entregas é a mesma coisa que o perfil Fiscal, que é a junção do perfil de Almoxarife com o de Engenheiro, onde o Financeiro também pode confirmar o recebimento das notas de materias e de serviços. 
+
+As telas a serem usadas são as mesmas, porém no menu de confirmação terá as opções, como na foto abaixo:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Fiscal/selecione-material-ou-servico.png" >
+</p>
+
+A sequencia de confirmação é a mesma que todos os outros perfis. 
 
 
 
