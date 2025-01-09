@@ -91,4 +91,53 @@ As telas a serem usadas são as mesmas, porém no menu de confirmação terá as
      <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Fiscal/selecione-material-ou-servico.png" >
 </p>
 
+## Perfil Financeiro 
+
+O perfil de **Financeiro** é o perfil com mais permissões e funcionalidades ( Autoriza lançamento, Confirmação de entrega, Gestão e Dashboard )
+
+Vamos conhecer as funcionalidades uma de cada vez: 
+
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/menu.png" >
+</p>
+
+- [Autoriza Lançamento](#requisitos-de-infraestrutura)
+- [Confirma Entrega](#verifica-e-configura-proxy)
+- [Gestão](#insConfirmatala-e-configura-aio-integrador)
+- [Dashboard](#configura-ansible)
+
+## Autoriza Lançamento 
+
+No Perfil do **Financeiro** uma das principais funções é poder autorizar o lançamento de nota fiscal de materiais ou de serviço.
+
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/autoriza-material-servico.png" >
+</p>
+
+O processo de Autorizar o lançamento é semelhante ao processo de Confirmação de entrega.
+
+Selecionando no menu de autorização e apertando no botão "Materiais" irá aparecer essa tela:
+
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/tela-autoriza-material.png" >
+</p>
+
+Selecionando no menu de autorização e apertando no botão "Serviços" irá aparecer essa tela:
+
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/tela-autoriza-material.png" >
+</p>
+Na sequencia, você vai selecionar a Obra que deseja, avançar, selecionar o fornecedor e depois identificar a nota que será lançada. 
+
+Após o lançamento, você receberá um email com a confirmação do lançamento da nota no seu Erp. 
+
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/tela-autoriza-servico.png" >
+</p>
+
+
+
+
+
+
 
