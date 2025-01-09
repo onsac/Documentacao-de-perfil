@@ -23,10 +23,62 @@
 - [Perfil Financeiro](#configura-ansible)
 
   ## Perfil Almoxarife
-O perfil de **Almoxarife** possui a permissão específica para confirmar o recebimento de materiais, garantindo o registro adequado e o acompanhamento do processo de entrada de insumos no sistema. Essa funcionalidade contribui para a eficiência e a rastreabilidade das operações de estoque e suprimentos.
+O perfil de **Almoxarife** possui a permissão específica para confirmar o recebimento de materiais, garantindo o registro adequado e o acompanhamento do processo de entrada de insumos no sistema. 
 
 Como usar o perfil:
 
+Tela de Confirmação de Entrega de notas de Materiais
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/Captura%20de%20tela%202025-01-08%20160632.png" >
+</p>
 
-  
-  
+Selecione a Obra:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/Captura%20de%20tela%202025-01-08%20160913.png" >
+</p>
+
+Selecione o Fornecedor:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/Tela-selecione-fornecedor.png" >
+</p>
+
+Como selecionar o fornecedor:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/selecionando-fornecedor.png" >
+</p>
+
+Verifique todas as informações da nota:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/tela-selecione-nota-fiscal.png" >
+</p>
+
+A perta no botão "ENVIAR" e a nota irá para a equipe do financeiro autorizar o lançamento.
+
+## Perfil Engenheiros
+
+Tela de Confirmação de Entrega de notas de Serviços
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Engenheiro/tela-confirmacao-servico.png" >
+</p>
+
+O perfil de **Engenheiros** possui a permissão específica para confirmar o recebimento de serviço, garantindo o registro adequado e o acompanhamento do processo de entrada de insumos no sistema
+
+Selecione a Obra:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/Captura%20de%20tela%202025-01-08%20160913.png" >
+</p>
+
+Selecione o Fornecedor:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/Tela-selecione-fornecedor.png" >
+</p>
+
+Como selecionar o fornecedor:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/selecionando-fornecedor.png" >
+</p>
+
+Verifique todas as informações da nota:
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/tela-selecione-nota-fiscal.png" >
+</p>
