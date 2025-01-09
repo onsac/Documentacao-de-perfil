@@ -147,6 +147,8 @@ As telas a serem usadas são as mesmas, porém no menu de confirmação terá as
 A sequencia de confirmação é a mesma que todos os outros perfis. 
 
 
+## Gestão
+
 
 
 
