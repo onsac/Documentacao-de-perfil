@@ -149,6 +149,23 @@ A sequencia de confirmação é a mesma que todos os outros perfis.
 
 ## Gestão
 
+O botão **Gestão** é onde conseguimos gerir todas as infomações sobre as notas fiscais, no sub-menu abaixo, você consegue ver as opções de status em que a nota fiscal pode está.
+
+<p align="center">
+     <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Financeiro/menu-gest%C3%A3o.png" >
+</p>
+
+- Botão Aguardando: Essa opção você poderá ver todas as notas que estão aguardando a confirmação de entrega no sistema. ( Para nota esta aguarando, ela passa pela verificação interna, que verifica se todas as informações da nota estão corretores e se está batendo com todas as informações do pedido).
+- Botão Autorização: Essa opção você pode ver todas as notas que estão disponiveis para ser autorizada. ( Para a nota ser autorizada ela primeiro precisa ser confirmado a entrega do material ou do serviço dessa nota).
+- Botão Regra: Essa opção você poderá ver todas as notas que estão em **regra**, o que isso quer dizer? O sistema faz uma verificação na nota e com o pedido, quando a nota fica em regra quer dizer que tem alguma inconsistencia nessa nota e a equipe de Suporte da OnSAC irá atuar para solucionar e quando necessario entrará em contato com a equipe da sua construtora.
+- Botão Lançadas: São todas as notas que foram lançadas
+- Botão Decurso: São as notas que não foram lançadas dentro do mês corrente.
+- Botão Devolvidas: São todas as notas que foram devoldidas
+- Botão Cancelasdas: São todas as notas que foram canceladas
+- Botão Erro: São todas as notas que deram erro no lançamento.
+  
+
+
 
 
 
