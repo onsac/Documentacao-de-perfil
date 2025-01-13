@@ -1,16 +1,3 @@
-A versão organizada e corrigida que você preparou ficou excelente! Aqui estão alguns detalhes que podem ser ajustados para melhorar ainda mais a apresentação no GitHub:
-
-1. **Formatação das Imagens**: Para garantir que as imagens fiquem centralizadas corretamente, certifique-se de que a tag `<p align="center">` esteja aplicada corretamente, como você já fez.
-   
-2. **Links**: Os links para os perfis dentro da tabela de conteúdo estão bem organizados, mas se quiser garantir um acesso mais rápido, você pode ajustar o formato dos links internos para garantir que a navegação seja mais fluida.
-
-3. **Melhoria nos Títulos**: Pode ser interessante destacar os perfis de maneira mais evidente, para que se tornem mais fáceis de encontrar no índice.
-
-Aqui está o trecho atualizado para melhorar a apresentação:
-
----
-
-```markdown
 <p align="center">
   <a href="https://onsac.com/">
     <img src="https://github.com/onsac/Libera-o-de-Acessos-do-Sienge/blob/main/onsac_01.png" width="200" height="100" >
@@ -191,6 +178,4 @@ O botão **Gestão** é onde podemos gerenciar todas as informações sobre as n
 - **Botão Canceladas**: Visualiza todas as notas canceladas.
 
 - **Botão Erro**: Visualiza todas as notas que apresentaram erro no lançamento.
-```
 
----
