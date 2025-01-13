@@ -36,7 +36,7 @@ O perfil de **Almoxarife** possui permissão específica para confirmar o recebi
 
 **Selecione a Obra:**
 <p align="center">
-  <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Engenheiro/Captura%20de%20tela%202025-01-08%20160913%20-%20Copia.png" >
+  <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/Captura%20de%20tela%202025-01-08%20160913.png" >
 </p>
 
 **Selecione o Fornecedor:**
