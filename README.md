@@ -74,17 +74,17 @@ O perfil de **Engenheiros** possui permissão específica para confirmar o receb
 
 **Selecione o Fornecedor:**
 <p align="center">
-  <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/Tela-selecione-fornecedor.png" >
+  <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Engenheiro/Tela-selecione-fornecedor%20-%20Copia.png" >
 </p>
 
 **Como selecionar o fornecedor:**
 <p align="center">
-  <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/selecionando-fornecedor.png" >
+  <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Engenheiro/selecionando-fornecedor%20-%20Copia.png" >
 </p>
 
 **Verifique todas as informações da nota:**
 <p align="center">
-  <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Almoxarife/tela-selecione-nota-fiscal.png" >
+  <img src="https://github.com/onsac/Documentacao-de-perfil/blob/main/Perfil%20Engenheiro/tela-selecione-nota-fiscal%20-%20Copia.png" >
 </p>
 
 ## Perfil Fiscal
